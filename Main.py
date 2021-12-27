@@ -30,7 +30,7 @@ for i in range (int(times) + 1):
 
 print(cnt)
 
-for i in range (int(times)):
+for i in range (int(times)): #둘중에 하나 고정시키기!
     temp = 0
     
     for j in range (int(times)):
